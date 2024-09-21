@@ -65,7 +65,7 @@ for i in range(1,1+len(startmsg)):
   endmsg = endmsg + startmsg[-i]
 ```
 
-### "adnocana" (do not ignore the apostrophe)
+### "adnocana" (do not ignore the double quotes)
 
 Feedback:
 "adnocana"
